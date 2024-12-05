@@ -34,7 +34,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 ```
-Program to implement the given logic function and to verify its operations in quartus us
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: Kailash Prabhu.S
 RegisterNumber: 24013672
  ```
